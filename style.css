@@ -67,8 +67,9 @@ body {
     height: 50px;
     margin-left: 10px;
     margin-top: 5px;
- 
+
 }
+
 .box-2 {
     background-color: #ddd;
     color: #333;
@@ -88,8 +89,9 @@ body {
     height: 50px;
     margin-left: 10px;
     margin-top: 5px;
- 
+
 }
+
 .box-3 {
     background-color: #ddd;
     color: #333;
@@ -109,5 +111,19 @@ body {
     height: 50px;
     margin-left: 10px;
     margin-top: 5px;
- 
+
+}
+
+.footer {
+
+    height: 70px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 15px;
+    font-family: sans-serif;
+    border: solid wheat;
+    margin-top: 15px;
+    border-radius: 7px;
 }
